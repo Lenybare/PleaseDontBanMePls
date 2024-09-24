@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 877
 =======
 feature-branc
@@ -23,3 +24,6 @@ feature-branc
 =======
 1389
 >>>>>>> goat-6-aa
+=======
+1428
+>>>>>>> goat-7-aa
